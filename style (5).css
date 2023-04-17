@@ -1,0 +1,79 @@
+body{
+    background-color: brown;
+    display: flex;
+}
+header{ 
+    background-color: blue;
+    margin: auto;
+    width: 100%;
+    position: relative;
+    display: inline;
+}
+p{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: xx-large;
+text-align: center;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    text-align: center;
+    color: darkgrey;
+}
+.semafaro{ width: 65%;
+padding: 75px;
+margin: 5% 0% 0% 12% ;
+image-resolution: 50px;
+text-align: center;
+display: flex;
+}
+button{
+    background-color: white;
+    border-color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 25px 25px 25px 25px;
+    width: 130px;
+    height: 30px;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 5px;
+    display: flex;
+}
+div{
+    font-style: italic;
+    text-align: center;
+    display: flex;
+}
+footer{
+    padding: 0%;
+    margin: 0%;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+h4{
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+a{
+    color: black;
+    font-style: italic;
+    font-size: medium;
+}
+.botao{
+    width: 120px;
+    height: 60px;
+    font-family: fantasy;
+    font-size: x-large;
+    background-color: gainsboro;
+    border-radius: 5px;
+    border-color:black;
+    text-align: center;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: darkgreen;
+    
+}
